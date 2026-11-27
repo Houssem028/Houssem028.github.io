@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mestok.app",
+      "sha256_cert_fingerprints": [
+        "78:82:6E:84:D8:7B:63:C7:E4:94:49:C9:2A:19:75:31:08:63:90:19:CA:7B:74:D2:89:3A:21:0C:D2:87:6F:7B"
+      ]
+    }
+  }
+]
